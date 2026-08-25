@@ -17,5 +17,5 @@ survives being questioned.
 
 
 **Elsewhere**
-- [Medium](https://medium.com/saralkarki) — data science writing
+- [Medium](https://medium.com/saralkarki/subpage/adb76b4453ae) — data science writing
 - Python · SQL · dbt · DuckDB · Docker · GeoPandas · Power BI
